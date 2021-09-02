@@ -9,7 +9,7 @@ const Categoria = new Schema({
         required: true
     },
     slug: {
-        type: String,
+        type: String, //teste
         required: true
     },
     date: {
