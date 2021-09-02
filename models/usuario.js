@@ -1,7 +1,7 @@
 const { truncate } = require('fs')
 const mongoose = require('mongoose')
 const Schema = mongoose.Schema
-
+// apenas um teste 
 const Usuario = new Schema( {
     nome: {
         type: String,
